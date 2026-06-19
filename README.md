@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aamir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
-### Passionate developer building awesome things.
+### Building Low-Level Systems & Machine Learning From Scratch
 
 [![GitHub followers](https://img.shields.io/github/followers/aamir-m-codes?label=Follow&style=social)](https://github.com/aamir-m-codes) &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=aamir-m-codes&color=58a6ff&style=flat-square)
 
@@ -12,9 +12,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I have **12** public repositories on GitHub
-- ⭐ **3** total stars earned across my projects
-- 👥 **1** followers · **1** following
+I am a passionate developer focused on understanding the inner workings of computers. Instead of just using high-level abstractions, I enjoy peeling back the layers to explore how things behave at the foundational level.
+
+- 🔬 **Low-Level Dev:** Fascinated by system programming, writing minimal bootloaders, and exploring abstract assembly opcodes to see how hardware and software interface.
+- ⚙️ **From-Scratch Philosophy:** I prefer building AI, Machine Learning, Deep Learning, and Data Structures from scratch to truly master the underlying mathematics and logic.
+- 🧠 **Numerical Computing:** Enthusiastic about mathematical modeling and translating complex engineering equations into optimized code.
 
 ---
 
@@ -23,47 +25,27 @@
 <div align="center">
 
 ### Languages
-![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge) ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=asm,c,cpp,python,bash" />
 
-### Frameworks & Tools
-![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+### Frameworks, Libraries & Tools
+<img src="https://skillicons.dev/icons?i=sklearn,linux,git,github,md,vscode,visualstudio,neovim,vim,octave" />
 
-</div>
+<br/> 
 
----
-
-## 🚀 Top Projects
-
-| Project | Description | Stars | Language |
-|---------|-------------|-------|----------|
-| [**DSA-concepts**](https://github.com/aamir-m-codes/DSA-concepts) | This repository contains the code of main data structures that are mostly used in programming. | ⭐ 1 | C++ |
-| [**ai-ml-dl-ds-scratch**](https://github.com/aamir-m-codes/ai-ml-dl-ds-scratch) | This repository contains the code of AI, ML, DL and DS from scratch. | ⭐ 1 | Python |
-| [**bootloaders-asmb**](https://github.com/aamir-m-codes/bootloaders-asmb) | This repository contains the basic minimal Bootloaders to examine how low level system behave. | ⭐ 1 | Assembly |
-| [**numerical-computing**](https://github.com/aamir-m-codes/numerical-computing) | This repository contains the numerical mathematical methods using python. | ⭐ 0 | Python |
-| [**web-eng-class**](https://github.com/aamir-m-codes/web-eng-class) | This repository contains the code that demonstrate in web engineering class in collage | ⭐ 0 | HTML |
-| [**Asmb-Opcodes-Exploration**](https://github.com/aamir-m-codes/Asmb-Opcodes-Exploration) | This repository have an excellent journey of abstract hexadecimal opcodes encoding that reveal the underline magic of computer. | ⭐ 0 | Assembly |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://img.shields.io/badge/Total_Stars-3-58a6ff?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Repositories-12-3fb950?style=for-the-badge&logo=bookmarks&logoColor=white) ![](https://img.shields.io/badge/Followers-1-bc8cff?style=for-the-badge&logo=people&logoColor=white) ![](https://img.shields.io/badge/Forks-0-d29922?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
 
 </div>
 
 ---
 
-## 💬 Top Languages
+## 📊 Real-Time GitHub Stats
 
 <div align="center">
 
-![](https://img.shields.io/badge/HTML-98.9%-e34c26?style=for-the-badge) ![](https://img.shields.io/badge/C-0.8%-555555?style=for-the-badge) ![](https://img.shields.io/badge/C++-0.1%-f34b7d?style=for-the-badge) ![](https://img.shields.io/badge/Assembly-0.1%-6E4C13?style=for-the-badge) ![](https://img.shields.io/badge/Python-0.0%-3572A5?style=for-the-badge)
+<img src="https://github-readme-stats.vercel.app/api?username=aamir-m-codes&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Aamir's GitHub Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-m-codes&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180px" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=aamir-m-codes&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
@@ -71,11 +53,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Weekly Coding Activity (Dynamic Graph)
 
 <div align="center">
 
-![](https://img.shields.io/badge/⭐_Star_Gazer-3_Stars-C0C0C0?style=for-the-badge) ![](https://img.shields.io/badge/📁_Repository_Pro-12_Repos-3fb950?style=for-the-badge) ![](https://img.shields.io/badge/👥_Friendly_Face-1_Followers-C0C0C0?style=for-the-badge) ![](https://img.shields.io/badge/🔤_Polyglot-5_Languages-0077B6?style=for-the-badge) ![](https://img.shields.io/badge/📅_GitHub_Member-Since_2025-C0C0C0?style=for-the-badge)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aamir-m-codes&theme=github-dark" alt="Aamir's Contribution Graph" width="100%" />
 
 </div>
 
