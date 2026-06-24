@@ -53,7 +53,7 @@ I am a passionate developer focused on understanding the inner workings of compu
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=aamir-m-codes&theme=yeblu">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=aamir-m-codes&theme=github-dark">
 </div>
 
 ---
