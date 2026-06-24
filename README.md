@@ -42,9 +42,9 @@ I am a passionate developer focused on understanding the inner workings of compu
 
 <div align="center">
 
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=aamir-m-codes&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-m-codes&layout=compact&theme=onedark" />
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=aamir-m-codes&theme=onedark" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=aamir-m-codes&show_icons=true&theme=yeblu">
+  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-m-codes&layout=compact&theme=yeblu" />
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=aamir-m-codes&theme=yeblu" />
 
 </div>
 
@@ -53,7 +53,7 @@ I am a passionate developer focused on understanding the inner workings of compu
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=aamir-m-codes&theme=github">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=aamir-m-codes&theme=yeblu">
 </div>
 
 ---
