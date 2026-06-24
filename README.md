@@ -38,29 +38,22 @@ I am a passionate developer focused on understanding the inner workings of compu
 
 ---
 
-## 📊 Real-Time GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=aamir-m-codes&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-m-codes&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=aamir-m-codes&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=aamir-m-codes&theme=onedark" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=aamir-m-codes&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 📈 Weekly Coding Activity (Dynamic Graph)
+## 📈 Activity Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aamir-m-codes&theme=github-dark" alt="Aamir's Contribution Graph" width="100%" />
-
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=aamir-m-codes&theme=github">
 </div>
 
 ---
@@ -69,7 +62,7 @@ I am a passionate developer focused on understanding the inner workings of compu
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aamir-m-codes)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aamir-m-codes)
 
 </div>
 
@@ -77,8 +70,8 @@ I am a passionate developer focused on understanding the inner workings of compu
 
 <div align="center">
 
-**⭐ Star my repos if you find them useful! ⭐**
+  **⭐ Star my repos if you find them useful! ⭐**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=80&section=footer" width="100%" />
 
 </div>
