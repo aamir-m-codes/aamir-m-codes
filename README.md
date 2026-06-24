@@ -4,13 +4,11 @@
 
 ### Building Low-Level Systems & Machine Learning From Scratch
 
-[![GitHub followers](https://img.shields.io/github/followers/aamir-m-codes?label=Follow&style=social)](https://github.com/aamir-m-codes) &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=aamir-m-codes&color=58a6ff&style=flat-square)
-
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 About Me</h2>
 
 I am a passionate developer focused on understanding the inner workings of computers. Instead of just using high-level abstractions, I enjoy peeling back the layers to explore how things behave at the foundational level.
 
@@ -20,7 +18,7 @@ I am a passionate developer focused on understanding the inner workings of compu
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
@@ -37,8 +35,7 @@ I am a passionate developer focused on understanding the inner workings of compu
 </div>
 
 ---
-
-## 📊 Stats
+<h2 align="center">📊 Stats</h2>
 
 <div align="center">
 
@@ -50,7 +47,7 @@ I am a passionate developer focused on understanding the inner workings of compu
 
 ---
 
-## 📈 Activity Graph
+<h2 align="center">📈 Activity Graph</h2>
 
 <div align="center">
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=aamir-m-codes&theme=github-dark">
@@ -58,7 +55,7 @@ I am a passionate developer focused on understanding the inner workings of compu
 
 ---
 
-## 📫 Connect with Me
+<h2 align="center">📫 Connect with Me</h2>
 
 <div align="center">
 
